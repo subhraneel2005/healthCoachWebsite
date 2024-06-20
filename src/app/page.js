@@ -2,6 +2,7 @@
 
 import Aboutme from "@/components/Aboutme";
 import ContactMe from "@/components/ContactMe";
+import Footer from "@/components/Footer";
 import Homepage from "@/components/Homepage";
 import Navbar from "@/components/Navbar";
 import Testimonials from "@/components/Testimonials";
@@ -28,6 +29,7 @@ export default function Home() {
       <Testimonials/>
       <Aboutme/>
       <ContactMe/>
+      <Footer/>
     </div>
   );
 }
