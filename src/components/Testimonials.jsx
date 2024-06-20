@@ -62,7 +62,7 @@ function Testimonials() {
                     <AvatarFallback>{testimonial.name[0]}</AvatarFallback>
                   </Avatar>
                   <p className="text-lg font-bold mt-3">{testimonial.name}</p>
-                  <p className="text-lg mt-3 text-center">"{testimonial.feedback}"</p>
+                  <p className="text-lg mt-3 text-center">&quot;{testimonial.feedback}&quot;</p>
                 </CardContent>
               </Card>
             </CarouselItem>
