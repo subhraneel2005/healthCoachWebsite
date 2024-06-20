@@ -49,8 +49,8 @@ function Testimonials() {
   ];
 
   return (
-    <div className="min-h-screen w-full flex select-none text-gray-900 justify-center bg-gray-200 items-center flex-col">
-      <h1  className="text-5xl font-bold mb-8">Testimonials</h1>
+    <div id="testimonials" className="min-h-screen w-full flex select-none text-gray-900 justify-center bg-gray-200 items-center flex-col">
+      <h1 className="text-5xl font-bold mb-8">Testimonials</h1>
       <Carousel className="w-full max-w-xs">
         <CarouselContent>
           {testimonials.map((testimonial, index) => (

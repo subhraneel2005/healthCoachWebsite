@@ -5,7 +5,7 @@ import { IoIosCall } from 'react-icons/io';
 
 function Homepage() {
   return (
-    <div className="relative w-full min-h-screen bg-gray-200 flex flex-col items-center justify-center text-gray-800">
+    <div id="home" className="relative w-full min-h-screen bg-gray-200 flex flex-col items-center justify-center text-gray-800">
       <Image
         src={heroImage}
         alt="Hero Image"
