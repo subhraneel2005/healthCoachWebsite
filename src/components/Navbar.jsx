@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <div className="relative">
     <div className="bg-emerald-400 py-6 justify-between px-10 flex sticky top-0 w-full text-black">
-        <h1 className="text-xl font-bold flex justify-center items-center">Miss Laure</h1>
+        <h1 className="text-xl font-bold flex justify-center items-center">Health Coach</h1>
         <ul className="text-lg md:flex justify-center items-center gap-5 hidden">
             <li className="cursor-pointer duration-300 hover:text-gray-600">HOME</li>
             <li className="cursor-pointer duration-300 hover:text-gray-600">TESTIMONIALS</li>

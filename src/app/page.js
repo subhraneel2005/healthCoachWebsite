@@ -1,10 +1,12 @@
 "use client"
 
+import Aboutme from "@/components/Aboutme";
+import ContactMe from "@/components/ContactMe";
 import Homepage from "@/components/Homepage";
 import Navbar from "@/components/Navbar";
 import Testimonials from "@/components/Testimonials";
 import Lenis from 'lenis';
-import {useEffect} from "react"
+import {useEffect} from "react";
 
 
 export default function Home() {
@@ -20,10 +22,12 @@ export default function Home() {
     requestAnimationFrame(raf)
   },[])
   return (
-    <div className="relative">
+    <div className="relative overflow-hidden">
       <Navbar/>
       <Homepage/>
       <Testimonials/>
+      <Aboutme/>
+      <ContactMe/>
     </div>
   );
 }
