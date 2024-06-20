@@ -19,7 +19,7 @@ function Homepage() {
         </h1>
         <p className="text-lg md:text-xl text-white mb-6">
           Achieve your wellness goals with personalized coaching from Jessica.
-          Let's embark on this journey together towards a healthier, happier
+          Lets embark on this journey together towards a healthier, happier
           you.
         </p>
         <button className="px-8 py-3 bg-emerald-500 text-white flex items-center gap-2 rounded-lg font-semibold hover:bg-emerald-700 transition duration-300">

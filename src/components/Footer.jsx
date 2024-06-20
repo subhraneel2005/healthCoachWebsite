@@ -38,7 +38,7 @@ function Footer() {
         </div>
       </div>
       <div className="mt-8 text-center text-gray-500 text-sm">
-        &copy; {new Date().getFullYear()} Jessica's Health Coaching. All rights reserved.
+        &copy; {new Date().getFullYear()} Jessicas Health Coaching. All rights reserved.
       </div>
     </footer>
   );

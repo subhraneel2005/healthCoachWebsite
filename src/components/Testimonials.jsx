@@ -18,7 +18,7 @@ function Testimonials() {
     {
       name: "Jennie Doe",
       image: "https://i.pinimg.com/236x/00/62/87/006287d3aa9c240f2ca4fdfe90d67a39.jpg",
-      feedback: "Working with Jessica has been a transformative experience. I've lost 20 pounds and feel more energetic than ever!",
+      feedback: "Working with Jessica has been a transformative experience. I have lost 20 pounds and feel more energetic than ever!",
     },
     {
       name: "Jane Smith",
@@ -33,7 +33,7 @@ function Testimonials() {
     {
         name: "Jennie Doe",
         image: "https://i.pinimg.com/236x/00/62/87/006287d3aa9c240f2ca4fdfe90d67a39.jpg",
-        feedback: "Working with Jessica has been a transformative experience. I've lost 20 pounds and feel more energetic than ever!",
+        feedback: "Working with Jessica has been a transformative experience. I have lost 20 pounds and feel more energetic than ever!",
       },
       {
         name: "Jane Smith",
